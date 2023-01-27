@@ -39,7 +39,6 @@
 	<script>
 		function oninitframework()
 		{
-			trace(1);
 		}
 		function onloadframework()
 		{
